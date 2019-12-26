@@ -8,6 +8,7 @@ const inputMap = {
   3: "Hdmi3",
   4: "Hdmi4",
   5: "Netflix"
+  6: "Tivimate"
 };
 
 const tvRemoteMap = {
